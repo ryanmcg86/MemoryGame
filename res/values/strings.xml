@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MemoryGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="reset_label">Reset</string>
+    <string name="a">a</string>
+    <string name="name_prompt">Enter your name:  </string>  
+    <string name="button_label">Continue</string>
+    <string name="desc">One of the buttons on the Memory board</string>
+    <string name="title_activity_user_name">User Name</string>
+    <string name="action_reset">New Game</string>
+    <string name="name">Please enter your name: </string>
+    <string name="done">Done</string>
+    <string name="Welcome_username">Welcome</string>
+    
+	
+        
+</resources>
